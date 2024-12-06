@@ -67,7 +67,6 @@ internal final class PopularMoviesViewController: UIViewController {
     
     private func setupNavigationBar(){
        title  = "Popular Movies"
-        navigationController?.navigationBar.largeTitleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.titleColor]
     }
 
 }

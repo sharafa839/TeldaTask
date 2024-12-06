@@ -34,7 +34,6 @@
 		0416C7E72D0112D50067FA5B /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C7DC2D0112D40067FA5B /* JsonLoader.swift */; };
 		0416C7E82D0112D50067FA5B /* TableView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C7DD2D0112D40067FA5B /* TableView+Extension.swift */; };
 		0416C7E92D0112D50067FA5B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C7DE2D0112D40067FA5B /* Extensions.swift */; };
-		0416C7EA2D0112D50067FA5B /* Extension+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C7DF2D0112D40067FA5B /* Extension+Color.swift */; };
 		0416C7EB2D0112D50067FA5B /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C7E02D0112D40067FA5B /* Router.swift */; };
 		0416C7EC2D0112D50067FA5B /* Data+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C7E12D0112D40067FA5B /* Data+Extension.swift */; };
 		0416C7ED2D0112D50067FA5B /* HostingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C7E22D0112D40067FA5B /* HostingTableViewCell.swift */; };
@@ -109,7 +108,6 @@
 		0416C7DC2D0112D40067FA5B /* JsonLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
 		0416C7DD2D0112D40067FA5B /* TableView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TableView+Extension.swift"; sourceTree = "<group>"; };
 		0416C7DE2D0112D40067FA5B /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		0416C7DF2D0112D40067FA5B /* Extension+Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Extension+Color.swift"; sourceTree = "<group>"; };
 		0416C7E02D0112D40067FA5B /* Router.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
 		0416C7E12D0112D40067FA5B /* Data+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Data+Extension.swift"; sourceTree = "<group>"; };
 		0416C7E22D0112D40067FA5B /* HostingTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HostingTableViewCell.swift; sourceTree = "<group>"; };
@@ -391,7 +389,6 @@
 				0416C7DD2D0112D40067FA5B /* TableView+Extension.swift */,
 				04E7862B2D02322700D44AAE /* CollectionView+Extension.swift */,
 				0416C7DE2D0112D40067FA5B /* Extensions.swift */,
-				0416C7DF2D0112D40067FA5B /* Extension+Color.swift */,
 				0416C7E02D0112D40067FA5B /* Router.swift */,
 				0416C7FC2D0126600067FA5B /* String+Extension.swift */,
 				0416C7E12D0112D40067FA5B /* Data+Extension.swift */,
@@ -654,7 +651,6 @@
 				0416C7EB2D0112D50067FA5B /* Router.swift in Sources */,
 				0416C7B12D010D9E0067FA5B /* MoviesRepo.swift in Sources */,
 				04D80E7A2D02605600F2F72F /* CastModel.swift in Sources */,
-				0416C7EA2D0112D50067FA5B /* Extension+Color.swift in Sources */,
 				0416C7AA2D0102EE0067FA5B /* PopularMoviesResponse.swift in Sources */,
 				0416C7A92D0102EE0067FA5B /* MoyaServiceHelper.swift in Sources */,
 				0416C7B32D010DD90067FA5B /* EndPoints.swift in Sources */,
